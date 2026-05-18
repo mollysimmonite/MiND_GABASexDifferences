@@ -1,0 +1,79 @@
+================================================================
+SUMMARY: Longitudinal Change in Older CN Adults (W1-W2)
+Model: outcome ~ Sex * Time_Years + Age + (1 | SubNum)
+Primary interest: Sex x Time interaction
+* = p < .05
+================================================================
+
+--- G — UNC — AUD ---
+  n = 203 observations, 159 participants (61M / 98F)
+  Sex (male vs female)  : beta = -0.1686, t = -4.633, p < .0001 *
+  Time                  : beta = -0.0344, t = -3.333, p = 0.0013 *
+  Sex x Time (key)      : beta = 0.0147, t = 0.969, p = 0.3360 
+
+--- G — UNC — SM ---
+  n = 203 observations, 159 participants (61M / 98F)
+  Sex (male vs female)  : beta = -0.1289, t = -3.455, p = 0.0007 *
+  Time                  : beta = -0.0602, t = -6.636, p < .0001 *
+  Sex x Time (key)      : beta = -0.0032, t = -0.247, p = 0.8061 
+
+--- G — UNC — VV ---
+  n = 203 observations, 159 participants (61M / 98F)
+  Sex (male vs female)  : beta = -0.1605, t = -4.75, p < .0001 *
+  Time                  : beta = -0.0368, t = -4.275, p < .0001 *
+  Sex x Time (key)      : beta = -0.0119, t = -0.961, p = 0.3403 
+
+--- G — ATC — AUD ---
+  n = 203 observations, 159 participants (61M / 98F)
+  Sex (male vs female)  : beta = -0.1991, t = -3.361, p = 0.0009 *
+  Time                  : beta = -0.0555, t = -3.188, p = 0.0020 *
+  Sex x Time (key)      : beta = 0.0266, t = 1.034, p = 0.3047 
+
+--- G — ATC — SM ---
+  n = 203 observations, 159 participants (61M / 98F)
+  Sex (male vs female)  : beta = -0.1249, t = -1.868, p = 0.0635 
+  Time                  : beta = -0.1064, t = -5.996, p < .0001 *
+  Sex x Time (key)      : beta = -0.0071, t = -0.273, p = 0.7858 
+
+--- G — ATC — VV ---
+  n = 203 observations, 159 participants (61M / 98F)
+  Sex (male vs female)  : beta = -0.2017, t = -3.976, p = 0.0001 *
+  Time                  : beta = -0.0593, t = -4.238, p = 0.0001 *
+  Sex x Time (key)      : beta = -0.0046, t = -0.224, p = 0.8234 
+
+--- GLX — UNC — AUD ---
+  n = 197 observations, 156 participants (61M / 95F)
+  Sex (male vs female)  : beta = -0.4423, t = -3.844, p = 0.0002 *
+  Time                  : beta = -0.0113, t = -0.285, p = 0.7760 
+  Sex x Time (key)      : beta = -0.0108, t = -0.185, p = 0.8533 
+
+--- GLX — UNC — SM ---
+  n = 203 observations, 159 participants (61M / 98F)
+  Sex (male vs female)  : beta = -0.301, t = -3.497, p = 0.0006 *
+  Time                  : beta = -0.0205, t = -0.828, p = 0.4103 
+  Sex x Time (key)      : beta = 0.0521, t = 1.427, p = 0.1592 
+
+--- GLX — UNC — VV ---
+  n = 203 observations, 159 participants (61M / 98F)
+  Sex (male vs female)  : beta = -0.2665, t = -2.374, p = 0.0187 *
+  Time                  : beta = -0.0284, t = -1.105, p = 0.2724 
+  Sex x Time (key)      : beta = -0.0791, t = -2.181, p = 0.0332 *
+
+--- GLX — ATC — AUD ---
+  n = 196 observations, 156 participants (61M / 95F)
+  Sex (male vs female)  : beta = -0.4741, t = -2.873, p = 0.0045 *
+  Time                  : beta = -0.111, t = -1.947, p = 0.0541 
+  Sex x Time (key)      : beta = 0.0714, t = 0.861, p = 0.3912 
+
+--- GLX — ATC — SM ---
+  n = 203 observations, 159 participants (61M / 98F)
+  Sex (male vs female)  : beta = -0.2748, t = -1.997, p = 0.0471 *
+  Time                  : beta = -0.0619, t = -1.319, p = 0.1898 
+  Sex x Time (key)      : beta = 0.1116, t = 1.569, p = 0.1200 
+
+--- GLX — ATC — VV ---
+  n = 203 observations, 159 participants (61M / 98F)
+  Sex (male vs female)  : beta = -0.2159, t = -1.38, p = 0.1694 
+  Time                  : beta = -0.0456, t = -1.09, p = 0.2791 
+  Sex x Time (key)      : beta = -0.0677, t = -1.109, p = 0.2715 
+

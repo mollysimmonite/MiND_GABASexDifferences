@@ -1,0 +1,58 @@
+================================================================
+SUMMARY: Sex Differences in Older MCI Adults (Wave 1) - with covariates
+Predictor: Sex (ref = Female); Covariates: Age, MRSTime, FMRI_ScannerUpgrade
+* = p < .05
+================================================================
+
+--- G - UNC ---
+  n = 42 (23M / 19F)
+  MANOVA: Pillai = 0.253, F(3,36) = 4.063, p = 0.0139 *
+  Univariate (+ = higher in males):
+    AUD: beta = -0.1685, t = -2.51, p = 0.0165 *
+    SM: beta = -0.1547, t = -2.682, p = 0.0108 *
+    VV: beta = -0.0373, t = -0.516, p = 0.6089 
+
+--- G - ATC ---
+  n = 42 (23M / 19F)
+  MANOVA: Pillai = 0.211, F(3,36) = 3.217, p = 0.0341 *
+  Univariate (+ = higher in males):
+    AUD: beta = -0.2664, t = -2.388, p = 0.0220 *
+    SM: beta = -0.3241, t = -3.083, p = 0.0038 *
+    VV: beta = -0.0684, t = -0.659, p = 0.5137 
+
+--- GLX - UNC ---
+  n = 41 (23M / 18F)
+  MANOVA: Pillai = 0.081, F(3,35) = 1.029, p = 0.3915 
+  Univariate (+ = higher in males):
+    AUD: beta = -0.0809, t = -0.373, p = 0.7113 
+    SM: beta = -0.2488, t = -1.587, p = 0.1209 
+    VV: beta = -0.0255, t = -0.148, p = 0.8832 
+
+--- GLX - ATC ---
+  n = 40 (23M / 17F)
+  MANOVA: Pillai = 0.131, F(3,34) = 1.703, p = 0.1847 
+  Univariate (+ = higher in males):
+    AUD: beta = 0.2987, t = 1.223, p = 0.2291 
+    SM: beta = -0.4264, t = -1.401, p = 0.1697 
+    VV: beta = -0.044, t = -0.186, p = 0.8533 
+
+--- G - UNC [EXPLORATORY: MEM] ---
+  n = 43 (23M / 20F)
+  Univariate (+ = higher in males):
+    MEM: beta = -0.0166, t = -0.24, p = 0.8117 
+
+--- G - ATC [EXPLORATORY: MEM] ---
+  n = 42 (23M / 19F)
+  Univariate (+ = higher in males):
+    MEM: beta = -0.0091, t = -0.067, p = 0.9470 
+
+--- GLX - UNC [EXPLORATORY: MEM] ---
+  n = 43 (23M / 20F)
+  Univariate (+ = higher in males):
+    MEM: beta = -0.0808, t = -0.402, p = 0.6896 
+
+--- GLX - ATC [EXPLORATORY: MEM] ---
+  n = 43 (23M / 20F)
+  Univariate (+ = higher in males):
+    MEM: beta = -0.2703, t = -0.685, p = 0.4974 
+

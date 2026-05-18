@@ -1,0 +1,81 @@
+================================================================
+SUMMARY: Bilateral Sex Differences in Older MCI Adults (Wave 1)
+Model: value ~ Sex * Hemisphere + Age + (1|SubNum)
+Hemisphere: L = left (ref), R = right
+Key test: Sex x Hemisphere interaction (lateralisation)
+Note: smaller MCI sample - interpret with caution
+* = p < .05
+================================================================
+
+--- G - UNC - AUD ---
+  n = 44 participants (24M / 20F), 88 observations
+  Sex (male vs female)          : beta = -0.1937, t = -2.432, p = 0.0172 *
+  Hemisphere (R vs L)           : beta = -0.1544, t = -2.194, p = 0.0336 *
+  Sex x Hemisphere [KEY]        : beta = 0.1081, t = 1.135, p = 0.2626 
+
+--- G - UNC - SM ---
+  n = 45 participants (24M / 21F), 89 observations
+  Sex (male vs female)          : beta = -0.1483, t = -2.324, p = 0.0230 *
+  Hemisphere (R vs L)           : beta = 0.0475, t = 1.039, p = 0.3042 
+  Sex x Hemisphere [KEY]        : beta = 0.01, t = 0.161, p = 0.8725 
+
+--- G - UNC - VV ---
+  n = 45 participants (24M / 21F), 90 observations
+  Sex (male vs female)          : beta = -0.0635, t = -0.816, p = 0.4170 
+  Hemisphere (R vs L)           : beta = 0.0975, t = 1.584, p = 0.1202 
+  Sex x Hemisphere [KEY]        : beta = 0.0745, t = 0.884, p = 0.3813 
+
+--- G - ATC - AUD ---
+  n = 44 participants (24M / 20F), 88 observations
+  Sex (male vs female)          : beta = -0.299, t = -2.239, p = 0.0279 *
+  Hemisphere (R vs L)           : beta = -0.1998, t = -1.693, p = 0.0975 
+  Sex x Hemisphere [KEY]        : beta = 0.1536, t = 0.961, p = 0.3416 
+
+--- G - ATC - SM ---
+  n = 45 participants (24M / 21F), 89 observations
+  Sex (male vs female)          : beta = -0.3114, t = -2.55, p = 0.0130 *
+  Hemisphere (R vs L)           : beta = 0.0785, t = 0.934, p = 0.3556 
+  Sex x Hemisphere [KEY]        : beta = 0.0448, t = 0.393, p = 0.6965 
+
+--- G - ATC - VV ---
+  n = 45 participants (24M / 21F), 90 observations
+  Sex (male vs female)          : beta = -0.1066, t = -0.91, p = 0.3654 
+  Hemisphere (R vs L)           : beta = 0.1215, t = 1.196, p = 0.2381 
+  Sex x Hemisphere [KEY]        : beta = 0.1111, t = 0.799, p = 0.4286 
+
+--- GLX - UNC - AUD ---
+  n = 44 participants (24M / 20F), 86 observations
+  Sex (male vs female)          : beta = 0.004, t = 0.019, p = 0.9852 
+  Hemisphere (R vs L)           : beta = -0.5817, t = -3.054, p = 0.0038 *
+  Sex x Hemisphere [KEY]        : beta = 0.1335, t = 0.526, p = 0.6017 
+
+--- GLX - UNC - SM ---
+  n = 45 participants (24M / 21F), 89 observations
+  Sex (male vs female)          : beta = -0.3097, t = -1.981, p = 0.0518 
+  Hemisphere (R vs L)           : beta = -0.2791, t = -2.845, p = 0.0067 *
+  Sex x Hemisphere [KEY]        : beta = -0.0013, t = -0.01, p = 0.9920 
+
+--- GLX - UNC - VV ---
+  n = 45 participants (24M / 21F), 89 observations
+  Sex (male vs female)          : beta = 0.0379, t = 0.211, p = 0.8335 
+  Hemisphere (R vs L)           : beta = 0.043, t = 0.302, p = 0.7638 
+  Sex x Hemisphere [KEY]        : beta = -0.0924, t = -0.471, p = 0.6401 
+
+--- GLX - ATC - AUD ---
+  n = 44 participants (24M / 20F), 86 observations
+  Sex (male vs female)          : beta = 0.2669, t = 0.879, p = 0.3817 
+  Hemisphere (R vs L)           : beta = -0.7085, t = -2.283, p = 0.0271 *
+  Sex x Hemisphere [KEY]        : beta = 0.0366, t = 0.088, p = 0.9301 
+
+--- GLX - ATC - SM ---
+  n = 45 participants (24M / 21F), 89 observations
+  Sex (male vs female)          : beta = -0.694, t = -2.201, p = 0.0312 *
+  Hemisphere (R vs L)           : beta = -0.614, t = -2.982, p = 0.0046 *
+  Sex x Hemisphere [KEY]        : beta = 0.0914, t = 0.327, p = 0.7451 
+
+--- GLX - ATC - VV ---
+  n = 45 participants (24M / 21F), 89 observations
+  Sex (male vs female)          : beta = 0.0049, t = 0.019, p = 0.9850 
+  Hemisphere (R vs L)           : beta = -0.1207, t = -0.51, p = 0.6126 
+  Sex x Hemisphere [KEY]        : beta = -0.1484, t = -0.455, p = 0.6512 
+

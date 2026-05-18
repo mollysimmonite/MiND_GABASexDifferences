@@ -1,0 +1,29 @@
+================================================================
+DESCRIPTIVE STATISTICS — MiND Study MRS Analysis
+Values: Mean (SD). T-tests comparing males vs females.
+* = p < .05
+================================================================
+
+=== Young CN (Wave 1) ===
+n = 60 (31M / 29F)
+
+Age_DuringParticipation  Male: 23.39 (3.01)     Female: 22.1 (2.79)      t(58) = 1.714, p = 0.0919 
+MoCA                  Male: 28.23 (1.48)     Female: 28.21 (1.11)     t(55.6) = 0.056, p = 0.9554 
+Education             Male: 15.52 (1.59)     Female: 15.17 (1.54)     t(57.9) = 0.852, p = 0.3979 
+MothersEd             Male: 16.29 (2.38)     Female: 16.31 (2.09)     t(57.8) = -0.035, p = 0.9725 
+
+=== Older CN (Wave 1) ===
+n = 170 (63M / 107F)
+
+Age_DuringParticipation  Male: 71.13 (4.77)     Female: 70.03 (5.06)     t(136.4) = 1.419, p = 0.1582 
+MoCA                  Male: 26.49 (2.02)     Female: 27.47 (1.7)      t(112.6) = -3.218, p = 0.0017 *
+Education             Male: 17.08 (2.3)      Female: 16.72 (2.01)     t(116.4) = 1.031, p = 0.3048 
+MothersEd             Male: 13.29 (2.89)     Female: 12.68 (2.85)     t(129.2) = 1.326, p = 0.1871 
+
+=== Older MCI (Wave 1) ===
+n = 46 (25M / 21F)
+
+Age_DuringParticipation  Male: 73.8 (5.74)      Female: 74.33 (5.82)     t(42.4) = -0.312, p = 0.7568 
+MoCA                  Male: 23.12 (3.57)     Female: 23.86 (3.4)      t(43.3) = -0.716, p = 0.4779 
+Education             Male: 15.84 (2.17)     Female: 15.38 (2.04)     t(43.4) = 0.738, p = 0.4642 
+MothersEd             Male: 13.12 (2.96)     Female: 11.68 (2.52)     t(41.4) = 1.735, p = 0.0902 

@@ -1,0 +1,58 @@
+================================================================
+SUMMARY: Sex x Diagnosis Interaction in Older Adults (Wave 1)
+Predictor: Sex x Diagnosis interaction (ref: Female, CN); Covariate: Age
+* = p < .05
+================================================================
+
+--- G — UNC ---
+  n = 201 (84M / 117F)
+  MANOVA: Pillai = 0.023, F(3,194) = 1.516, p = 0.2117 
+  Univariate (+ = higher in males):
+    AUD: beta = 0.0044, t = 0.055, p = 0.9558 
+    SM: beta = -0.0193, t = -0.242, p = 0.8090 
+    VV: beta = 0.1341, t = 1.815, p = 0.0711 
+
+--- G — ATC ---
+  n = 201 (84M / 117F)
+  MANOVA: Pillai = 0.034, F(3,194) = 2.26, p = 0.0828 
+  Univariate (+ = higher in males):
+    AUD: beta = -0.0605, t = -0.471, p = 0.6383 
+    SM: beta = -0.1759, t = -1.244, p = 0.2151 
+    VV: beta = 0.1466, t = 1.33, p = 0.1851 
+
+--- GLX — UNC ---
+  n = 197 (84M / 113F)
+  MANOVA: Pillai = 0.015, F(3,190) = 0.955, p = 0.4151 
+  Univariate (+ = higher in males):
+    AUD: beta = 0.3682, t = 1.564, p = 0.1194 
+    SM: beta = 0.028, t = 0.144, p = 0.8853 
+    VV: beta = 0.2387, t = 1.01, p = 0.3139 
+
+--- GLX — ATC ---
+  n = 196 (84M / 112F)
+  MANOVA: Pillai = 0.037, F(3,189) = 2.395, p = 0.0697 
+  Univariate (+ = higher in males):
+    AUD: beta = 0.7868, t = 2.265, p = 0.0246 *
+    SM: beta = -0.1566, t = -0.481, p = 0.6312 
+    VV: beta = 0.1475, t = 0.435, p = 0.6641 
+
+--- G — UNC [EXPLORATORY: MEM] ---
+  n = 121 (52M / 69F)
+  Univariate (+ = higher in males):
+    MEM: beta = 0.1088, t = 1.373, p = 0.1724 
+
+--- G — ATC [EXPLORATORY: MEM] ---
+  n = 120 (52M / 68F)
+  Univariate (+ = higher in males):
+    MEM: beta = 0.1345, t = 1.036, p = 0.3023 
+
+--- GLX — UNC [EXPLORATORY: MEM] ---
+  n = 120 (52M / 68F)
+  Univariate (+ = higher in males):
+    MEM: beta = 0.132, t = 0.518, p = 0.6051 
+
+--- GLX — ATC [EXPLORATORY: MEM] ---
+  n = 120 (52M / 68F)
+  Univariate (+ = higher in males):
+    MEM: beta = -0.1989, t = -0.465, p = 0.6428 
+

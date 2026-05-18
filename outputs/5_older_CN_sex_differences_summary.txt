@@ -1,0 +1,78 @@
+================================================================
+SUMMARY: Sex Differences in Older CN Adults (Wave 1)
+Predictor: Sex (ref = Female); Covariate: Age
+* = p < .05
+================================================================
+
+--- G — UNC ---
+  n = 159 (61M / 98F)
+  MANOVA: Pillai = 0.175, F(3,154) = 10.871, p < .0001 *
+  Univariate (+ = higher in males):
+    AUD: beta = -0.1669, t = -4.444, p < .0001 *
+    SM: beta = -0.129, t = -3.305, p = 0.0012 *
+    VV: beta = -0.1615, t = -4.746, p < .0001 *
+
+--- G — ATC ---
+  n = 159 (61M / 98F)
+  MANOVA: Pillai = 0.12, F(3,154) = 7.012, p = 0.0002 *
+  Univariate (+ = higher in males):
+    AUD: beta = -0.1947, t = -3.182, p = 0.0018 *
+    SM: beta = -0.1248, t = -1.809, p = 0.0723 
+    VV: beta = -0.2043, t = -3.973, p = 0.0001 *
+
+--- GLX — UNC ---
+  n = 156 (61M / 95F)
+  MANOVA: Pillai = 0.141, F(3,151) = 8.249, p < .0001 *
+  Univariate (+ = higher in males):
+    AUD: beta = -0.4541, t = -4.153, p = 0.0001 *
+    SM: beta = -0.2957, t = -3.172, p = 0.0018 *
+    VV: beta = -0.2455, t = -2.126, p = 0.0351 *
+
+--- GLX — ATC ---
+  n = 156 (61M / 95F)
+  MANOVA: Pillai = 0.054, F(3,151) = 2.852, p = 0.0393 *
+  Univariate (+ = higher in males):
+    AUD: beta = -0.4733, t = -2.806, p = 0.0057 *
+    SM: beta = -0.2566, t = -1.716, p = 0.0883 
+    VV: beta = -0.1963, t = -1.197, p = 0.2331 
+
+--- G — UNC [EXPLORATORY: MEM] ---
+  n = 78 (29M / 49F)
+  Univariate (+ = higher in males):
+    MEM: beta = -0.1223, t = -2.684, p = 0.0090 *
+
+--- G — UNC [EXPLORATORY: LPV] ---
+  n = 78 (27M / 51F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.1419, t = -2.646, p = 0.0099 *
+
+--- G — ATC [EXPLORATORY: MEM] ---
+  n = 78 (29M / 49F)
+  Univariate (+ = higher in males):
+    MEM: beta = -0.1328, t = -2.086, p = 0.0403 *
+
+--- G — ATC [EXPLORATORY: LPV] ---
+  n = 78 (27M / 51F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.1678, t = -1.798, p = 0.0762 
+
+--- GLX — UNC [EXPLORATORY: MEM] ---
+  n = 77 (29M / 48F)
+  Univariate (+ = higher in males):
+    MEM: beta = -0.1959, t = -1.236, p = 0.2205 
+
+--- GLX — UNC [EXPLORATORY: LPV] ---
+  n = 76 (26M / 50F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.3286, t = -1.727, p = 0.0883 
+
+--- GLX — ATC [EXPLORATORY: MEM] ---
+  n = 77 (29M / 48F)
+  Univariate (+ = higher in males):
+    MEM: beta = -0.059, t = -0.244, p = 0.8078 
+
+--- GLX — ATC [EXPLORATORY: LPV] ---
+  n = 76 (26M / 50F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.3159, t = -1.073, p = 0.2869 
+

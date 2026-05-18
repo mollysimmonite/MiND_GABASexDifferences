@@ -1,0 +1,10 @@
+# Data files — not committed (may contain participant information)
+data/
+
+# RStudio artifacts
+.RData
+.Rhistory
+.Rproj.user/
+
+# macOS metadata
+.DS_Store

@@ -1,0 +1,66 @@
+================================================================
+SENSITIVITY CHECK: Older CN Sex Differences — MoCA as Covariate
+Comparing: primary model (Age only) vs +MoCA model
+* = p < .05
+================================================================
+
+--- G - UNC ---
+  MANOVA (Pillai):
+    Primary:  F(3,154) = 10.871, p < .0001 *
+    +MoCA:    F(3,153) = 10.822, p < .0001 *  [n = 159]
+  Univariates (Sex beta, p):
+    AUD:
+      Primary:  beta = -0.1669, p < .0001 *
+      +MoCA:    beta = -0.1621, p < .0001 *
+    SM:
+      Primary:  beta = -0.129, p = 0.0012 *
+      +MoCA:    beta = -0.123, p = 0.0027 *
+    VV:
+      Primary:  beta = -0.1615, p < .0001 *
+      +MoCA:    beta = -0.1579, p < .0001 *
+
+--- GLX - UNC ---
+  MANOVA (Pillai):
+    Primary:  F(3,151) = 8.249, p < .0001 *
+    +MoCA:    F(3,150) = 8.383, p < .0001 *  [n = 156]
+  Univariates (Sex beta, p):
+    AUD:
+      Primary:  beta = -0.4541, p = 0.0001 *
+      +MoCA:    beta = -0.4837, p < .0001 *
+    SM:
+      Primary:  beta = -0.2957, p = 0.0018 *
+      +MoCA:    beta = -0.3489, p = 0.0003 *
+    VV:
+      Primary:  beta = -0.2455, p = 0.0351 *
+      +MoCA:    beta = -0.2702, p = 0.0245 *
+
+--- G - ATC ---
+  MANOVA (Pillai):
+    Primary:  F(3,154) = 7.012, p = 0.0002 *
+    +MoCA:    F(3,153) = 6.969, p = 0.0002 *  [n = 159]
+  Univariates (Sex beta, p):
+    AUD:
+      Primary:  beta = -0.1947, p = 0.0018 *
+      +MoCA:    beta = -0.1889, p = 0.0033 *
+    SM:
+      Primary:  beta = -0.1248, p = 0.0723
+      +MoCA:    beta = -0.1112, p = 0.1201
+    VV:
+      Primary:  beta = -0.2043, p = 0.0001 *
+      +MoCA:    beta = -0.1989, p = 0.0003 *
+
+--- GLX - ATC ---
+  MANOVA (Pillai):
+    Primary:  F(3,151) = 2.852, p = 0.0393 *
+    +MoCA:    F(3,150) = 2.926, p = 0.0358 *  [n = 156]
+  Univariates (Sex beta, p):
+    AUD:
+      Primary:  beta = -0.4733, p = 0.0057 *
+      +MoCA:    beta = -0.5356, p = 0.0023 *
+    SM:
+      Primary:  beta = -0.2566, p = 0.0883
+      +MoCA:    beta = -0.3537, p = 0.0203 *
+    VV:
+      Primary:  beta = -0.1963, p = 0.2331
+      +MoCA:    beta = -0.2417, p = 0.1535
+

@@ -1,0 +1,128 @@
+================================================================
+SUMMARY: Longitudinal Bilateral Analysis in Older CN Adults
+Model: value ~ Sex * Hemisphere * Time_Years + Age + (1|SubNum)
+Hemisphere: L = left (ref), R = right
+Key tests: Sex x Hemisphere, Sex x Time, Sex x Hemisphere x Time
+* = p < .05
+================================================================
+
+--- G - UNC - AUD ---
+  n = 165 participants (61M / 104F), 422 observations
+  Sex                           : beta = -0.1485, t = -3.467, p = 0.0006 *
+  Hemisphere (R vs L)           : beta = -0.0273, t = -0.942, p = 0.3471 
+  Time                          : beta = -0.0293, t = -2.44, p = 0.0152 *
+  Sex x Hemisphere [KEY]        : beta = -0.0222, t = -0.467, p = 0.6409 
+  Sex x Time [KEY]              : beta = 0.0242, t = 1.311, p = 0.1907 
+  Hemisphere x Time             : beta = -0.0104, t = -0.697, p = 0.4867 
+  Sex x Hemisphere x Time [KEY] : beta = -0.0231, t = -0.951, p = 0.3423 
+
+--- G - UNC - SM ---
+  n = 165 participants (61M / 104F), 422 observations
+  Sex                           : beta = -0.1088, t = -2.635, p = 0.0089 *
+  Hemisphere (R vs L)           : beta = 0.1014, t = 4.195, p < .0001 *
+  Time                          : beta = -0.043, t = -4.136, p < .0001 *
+  Sex x Hemisphere [KEY]        : beta = -0.0202, t = -0.509, p = 0.6115 
+  Sex x Time [KEY]              : beta = -0.0196, t = -1.25, p = 0.2123 
+  Hemisphere x Time             : beta = -0.0264, t = -2.043, p = 0.0422 *
+  Sex x Hemisphere x Time [KEY] : beta = 0.0239, t = 1.163, p = 0.2458 
+
+--- G - UNC - VV ---
+  n = 165 participants (61M / 104F), 417 observations
+  Sex                           : beta = -0.1544, t = -3.895, p = 0.0001 *
+  Hemisphere (R vs L)           : beta = 0.1229, t = 4.767, p < .0001 *
+  Time                          : beta = -0.0312, t = -2.737, p = 0.0065 *
+  Sex x Hemisphere [KEY]        : beta = 9e-04, t = 0.022, p = 0.9828 
+  Sex x Time [KEY]              : beta = -0.0126, t = -0.744, p = 0.4575 
+  Hemisphere x Time             : beta = -0.0081, t = -0.58, p = 0.5625 
+  Sex x Hemisphere x Time [KEY] : beta = 0.0032, t = 0.148, p = 0.8821 
+
+--- G - ATC - AUD ---
+  n = 165 participants (61M / 104F), 422 observations
+  Sex                           : beta = -0.1547, t = -2.187, p = 0.0294 *
+  Hemisphere (R vs L)           : beta = 0.0084, t = 0.168, p = 0.8665 
+  Time                          : beta = -0.0525, t = -2.581, p = 0.0103 *
+  Sex x Hemisphere [KEY]        : beta = -0.0567, t = -0.697, p = 0.4862 
+  Sex x Time [KEY]              : beta = 0.0475, t = 1.514, p = 0.1309 
+  Hemisphere x Time             : beta = -0.0178, t = -0.694, p = 0.4884 
+  Sex x Hemisphere x Time [KEY] : beta = -0.0348, t = -0.835, p = 0.4044 
+
+--- G - ATC - SM ---
+  n = 165 participants (61M / 104F), 422 observations
+  Sex                           : beta = -0.1007, t = -1.326, p = 0.1860 
+  Hemisphere (R vs L)           : beta = 0.2247, t = 4.782, p < .0001 *
+  Time                          : beta = -0.0763, t = -3.826, p = 0.0002 *
+  Sex x Hemisphere [KEY]        : beta = -0.0092, t = -0.119, p = 0.9055 
+  Sex x Time [KEY]              : beta = -0.0407, t = -1.344, p = 0.1801 
+  Hemisphere x Time             : beta = -0.0488, t = -1.944, p = 0.0530 
+  Sex x Hemisphere x Time [KEY] : beta = 0.0479, t = 1.198, p = 0.2320 
+
+--- G - ATC - VV ---
+  n = 165 participants (61M / 104F), 417 observations
+  Sex                           : beta = -0.1933, t = -3.214, p = 0.0014 *
+  Hemisphere (R vs L)           : beta = 0.1728, t = 4.221, p < .0001 *
+  Time                          : beta = -0.0525, t = -2.938, p = 0.0035 *
+  Sex x Hemisphere [KEY]        : beta = 0.0069, t = 0.103, p = 0.9183 
+  Sex x Time [KEY]              : beta = -0.0046, t = -0.172, p = 0.8635 
+  Hemisphere x Time             : beta = -0.0146, t = -0.662, p = 0.5083 
+  Sex x Hemisphere x Time [KEY] : beta = 0.0048, t = 0.137, p = 0.8911 
+
+--- GLX - UNC - AUD ---
+  n = 165 participants (61M / 104F), 415 observations
+  Sex                           : beta = -0.372, t = -2.882, p = 0.0042 *
+  Hemisphere (R vs L)           : beta = -0.3939, t = -4.377, p < .0001 *
+  Time                          : beta = -0.0666, t = -1.74, p = 0.0828 
+  Sex x Hemisphere [KEY]        : beta = -0.1233, t = -0.842, p = 0.4009 
+  Sex x Time [KEY]              : beta = 0.0741, t = 1.29, p = 0.1980 
+  Hemisphere x Time             : beta = -0.0026, t = -0.054, p = 0.9566 
+  Sex x Hemisphere x Time [KEY] : beta = -0.0894, t = -1.177, p = 0.2401 
+
+--- GLX - UNC - SM ---
+  n = 165 participants (61M / 104F), 422 observations
+  Sex                           : beta = -0.2746, t = -2.697, p = 0.0074 *
+  Hemisphere (R vs L)           : beta = -0.3099, t = -4.459, p < .0001 *
+  Time                          : beta = -0.0151, t = -0.526, p = 0.5993 
+  Sex x Hemisphere [KEY]        : beta = -0.0537, t = -0.471, p = 0.6380 
+  Sex x Time [KEY]              : beta = 0.0362, t = 0.818, p = 0.4141 
+  Hemisphere x Time             : beta = 0.0072, t = 0.193, p = 0.8470 
+  Sex x Hemisphere x Time [KEY] : beta = 0.0228, t = 0.386, p = 0.6997 
+
+--- GLX - UNC - VV ---
+  n = 165 participants (61M / 104F), 417 observations
+  Sex                           : beta = -0.198, t = -1.558, p = 0.1203 
+  Hemisphere (R vs L)           : beta = 0.0098, t = 0.133, p = 0.8943 
+  Time                          : beta = 0.0133, t = 0.398, p = 0.6906 
+  Sex x Hemisphere [KEY]        : beta = -0.1063, t = -0.884, p = 0.3778 
+  Sex x Time [KEY]              : beta = -0.1456, t = -2.988, p = 0.0030 *
+  Hemisphere x Time             : beta = -0.0732, t = -1.846, p = 0.0660 
+  Sex x Hemisphere x Time [KEY] : beta = 0.122, t = 1.956, p = 0.0515 
+
+--- GLX - ATC - AUD ---
+  n = 165 participants (61M / 104F), 415 observations
+  Sex                           : beta = -0.3165, t = -1.576, p = 0.1158 
+  Hemisphere (R vs L)           : beta = -0.5134, t = -3.402, p = 0.0008 *
+  Time                          : beta = -0.1306, t = -2.081, p = 0.0382 *
+  Sex x Hemisphere [KEY]        : beta = -0.224, t = -0.911, p = 0.3631 
+  Sex x Time [KEY]              : beta = 0.1636, t = 1.723, p = 0.0858 
+  Hemisphere x Time             : beta = -0.0068, t = -0.085, p = 0.9325 
+  Sex x Hemisphere x Time [KEY] : beta = -0.146, t = -1.146, p = 0.2529 
+
+--- GLX - ATC - SM ---
+  n = 165 participants (61M / 104F), 422 observations
+  Sex                           : beta = -0.2379, t = -1.395, p = 0.1639 
+  Hemisphere (R vs L)           : beta = -0.5253, t = -4.117, p = 0.0001 *
+  Time                          : beta = -0.0276, t = -0.537, p = 0.5913 
+  Sex x Hemisphere [KEY]        : beta = -0.064, t = -0.306, p = 0.7601 
+  Sex x Time [KEY]              : beta = 0.0591, t = 0.741, p = 0.4591 
+  Hemisphere x Time             : beta = 0.0139, t = 0.205, p = 0.8380 
+  Sex x Hemisphere x Time [KEY] : beta = 0.0647, t = 0.597, p = 0.5512 
+
+--- GLX - ATC - VV ---
+  n = 165 participants (61M / 104F), 416 observations
+  Sex                           : beta = -0.0904, t = -0.506, p = 0.6129 
+  Hemisphere (R vs L)           : beta = -0.0951, t = -0.813, p = 0.4167 
+  Time                          : beta = 0.0236, t = 0.458, p = 0.6470 
+  Sex x Hemisphere [KEY]        : beta = -0.2667, t = -1.391, p = 0.1656 
+  Sex x Time [KEY]              : beta = -0.1527, t = -1.994, p = 0.0470 *
+  Hemisphere x Time             : beta = -0.1353, t = -2.148, p = 0.0327 *
+  Sex x Hemisphere x Time [KEY] : beta = 0.2024, t = 2.04, p = 0.0424 *
+

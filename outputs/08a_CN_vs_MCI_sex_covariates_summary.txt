@@ -1,0 +1,58 @@
+================================================================
+SUMMARY: Sex x Diagnosis Interaction in Older Adults (Wave 1) - with covariates
+Predictor: Sex x Diagnosis interaction (ref: Female, CN); Covariates: Age, MRSTime, FMRI_ScannerUpgrade
+* = p < .05
+================================================================
+
+--- G - UNC ---
+  n = 201 (84M / 117F)
+  MANOVA: Pillai = 0.025, F(3,192) = 1.666, p = 0.1758 
+  Univariate (+ = higher in males):
+    AUD: beta = -0.0196, t = -0.291, p = 0.7716 
+    SM: beta = -0.0501, t = -0.841, p = 0.4013 
+    VV: beta = 0.1197, t = 1.71, p = 0.0889 
+
+--- G - ATC ---
+  n = 201 (84M / 117F)
+  MANOVA: Pillai = 0.046, F(3,192) = 3.113, p = 0.0274 *
+  Univariate (+ = higher in males):
+    AUD: beta = -0.1031, t = -0.973, p = 0.3317 
+    SM: beta = -0.2318, t = -2.23, p = 0.0269 *
+    VV: beta = 0.1162, t = 1.191, p = 0.2349 
+
+--- GLX - UNC ---
+  n = 197 (84M / 113F)
+  MANOVA: Pillai = 0.013, F(3,188) = 0.825, p = 0.4818 
+  Univariate (+ = higher in males):
+    AUD: beta = 0.3383, t = 1.451, p = 0.1484 
+    SM: beta = 0.0248, t = 0.127, p = 0.8992 
+    VV: beta = 0.2131, t = 0.907, p = 0.3655 
+
+--- GLX - ATC ---
+  n = 196 (84M / 112F)
+  MANOVA: Pillai = 0.034, F(3,187) = 2.225, p = 0.0867 
+  Univariate (+ = higher in males):
+    AUD: beta = 0.7336, t = 2.16, p = 0.0320 *
+    SM: beta = -0.149, t = -0.455, p = 0.6498 
+    VV: beta = 0.0887, t = 0.271, p = 0.7868 
+
+--- G - UNC [EXPLORATORY: MEM] ---
+  n = 120 (52M / 68F)
+  Univariate (+ = higher in males):
+    MEM: beta = 0.0993, t = 1.262, p = 0.2095 
+
+--- G - ATC [EXPLORATORY: MEM] ---
+  n = 119 (52M / 67F)
+  Univariate (+ = higher in males):
+    MEM: beta = 0.1268, t = 0.972, p = 0.3330 
+
+--- GLX - UNC [EXPLORATORY: MEM] ---
+  n = 119 (52M / 67F)
+  Univariate (+ = higher in males):
+    MEM: beta = 0.1187, t = 0.463, p = 0.6442 
+
+--- GLX - ATC [EXPLORATORY: MEM] ---
+  n = 119 (52M / 67F)
+  Univariate (+ = higher in males):
+    MEM: beta = -0.1954, t = -0.452, p = 0.6520 
+

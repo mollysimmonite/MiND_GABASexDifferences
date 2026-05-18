@@ -1,0 +1,125 @@
+================================================================
+SUMMARY: Sex Differences in Young CN Adults (with covariates: MRSTime, ScannerUpgrade)
+Predictor: Sex (ref = Female); Covariates: Age, MRSTime, FMRI_ScannerUpgrade
+* = p < .05
+================================================================
+
+--- G — UNC ---
+  n = 60 (31M / 29F)
+  MANOVA: Pillai = 0.183, F(3,53) = 3.956, p = 0.0128 *
+  Univariate (+ = higher in males):
+    AUD: beta = 0.0752, t = 1.626, p = 0.1097 
+    SM: beta = -0.0659, t = -1.311, p = 0.1953 
+    VV: beta = -0.0465, t = -1.139, p = 0.2596 
+
+--- G — ATC ---
+  n = 60 (31M / 29F)
+  MANOVA: Pillai = 0.152, F(3,53) = 3.161, p = 0.0320 *
+  Univariate (+ = higher in males):
+    AUD: beta = 0.1064, t = 1.502, p = 0.1389 
+    SM: beta = -0.0821, t = -1.062, p = 0.2928 
+    VV: beta = -0.0348, t = -0.56, p = 0.5778 
+
+--- GLX — UNC ---
+  n = 60 (31M / 29F)
+  MANOVA: Pillai = 0.042, F(3,53) = 0.783, p = 0.5087 
+  Univariate (+ = higher in males):
+    AUD: beta = 0.1405, t = 0.726, p = 0.4712 
+    SM: beta = -0.1439, t = -0.884, p = 0.3808 
+    VV: beta = -0.0685, t = -0.552, p = 0.5833 
+
+--- GLX — ATC ---
+  n = 60 (31M / 29F)
+  MANOVA: Pillai = 0.019, F(3,53) = 0.349, p = 0.7902 
+  Univariate (+ = higher in males):
+    AUD: beta = 0.1819, t = 0.609, p = 0.5450 
+    SM: beta = -0.1923, t = -0.763, p = 0.4484 
+    VV: beta = 0.0012, t = 0.006, p = 0.9951 
+
+--- G — UNC [EXPLORATORY: LPV] ---
+  n = 55 (30M / 25F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.0442, t = -0.939, p = 0.3520 
+
+--- G — ATC [EXPLORATORY: LPV] ---
+  n = 55 (30M / 25F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.0436, t = -0.576, p = 0.5671 
+
+--- GLX — UNC [EXPLORATORY: LPV] ---
+  n = 53 (28M / 25F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.3868, t = -2.286, p = 0.0267 *
+
+--- GLX — ATC [EXPLORATORY: LPV] ---
+  n = 53 (28M / 25F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.5054, t = -1.981, p = 0.0533 
+
+================================================================
+EXPLORATORY: Hormonal Factor Analysis (Male / Female-Follicular / Female-Luteal)
+Reference = Male; Covariates: Age, MRSTime, FMRI_ScannerUpgrade
+Note: reduced sample due to MenstrualStage NAs (n females = 14)
+* = p < .05
+================================================================
+
+--- G — UNC — AUD [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.0109, t = 0.149, p = 0.8824 
+  Female-Luteal vs Male:     beta = -0.0985, t = -1.216, p = 0.2312 
+
+--- G — UNC — SM [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.0949, t = 1.229, p = 0.2265 
+  Female-Luteal vs Male:     beta = 0.0861, t = 1.006, p = 0.3208 
+
+--- G — UNC — VV [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.1087, t = 1.78, p = 0.0828 
+  Female-Luteal vs Male:     beta = 0.0291, t = 0.429, p = 0.6700 
+
+--- G — ATC — AUD [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.0143, t = 0.127, p = 0.8998 
+  Female-Luteal vs Male:     beta = -0.1316, t = -1.049, p = 0.3004 
+
+--- G — ATC — SM [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.0726, t = 0.585, p = 0.5620 
+  Female-Luteal vs Male:     beta = 0.1395, t = 1.013, p = 0.3172 
+
+--- G — ATC — VV [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.1331, t = 1.485, p = 0.1455 
+  Female-Luteal vs Male:     beta = 0.0034, t = 0.034, p = 0.9729 
+
+--- GLX — UNC — AUD [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.2493, t = 0.816, p = 0.4197 
+  Female-Luteal vs Male:     beta = -0.2415, t = -0.712, p = 0.4804 
+
+--- GLX — UNC — SM [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.4092, t = 1.645, p = 0.1080 
+  Female-Luteal vs Male:     beta = -0.0699, t = -0.254, p = 0.8011 
+
+--- GLX — UNC — VV [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.1436, t = 0.864, p = 0.3926 
+  Female-Luteal vs Male:     beta = 0.0813, t = 0.442, p = 0.6613 
+
+--- GLX — ATC — AUD [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.3862, t = 0.809, p = 0.4232 
+  Female-Luteal vs Male:     beta = -0.3025, t = -0.572, p = 0.5708 
+
+--- GLX — ATC — SM [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.5037, t = 1.309, p = 0.1981 
+  Female-Luteal vs Male:     beta = -0.1269, t = -0.297, p = 0.7677 
+
+--- GLX — ATC — VV [HORMONAL FACTOR] ---
+  n = 45
+  Female-Follicular vs Male: beta = 0.1453, t = 0.593, p = 0.5569 
+  Female-Luteal vs Male:     beta = -0.0069, t = -0.025, p = 0.9799 
+

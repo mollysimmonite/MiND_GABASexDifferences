@@ -1,0 +1,58 @@
+================================================================
+SUMMARY: Sex Differences in Young CN Adults
+Predictor: Sex (ref = Female); Covariate: Age
+* = p < .05
+================================================================
+
+--- G — UNC ---
+  n = 60 (31M / 29F)
+  MANOVA: Pillai = 0.172, F(3,55) = 3.816, p = 0.0148 *
+  Univariate (+ = higher in males):
+    AUD: beta = 0.0546, t = 1.171, p = 0.2464 
+    SM: beta = -0.0878, t = -1.723, p = 0.0904 
+    VV: beta = -0.0687, t = -1.622, p = 0.1103 
+
+--- G — ATC ---
+  n = 60 (31M / 29F)
+  MANOVA: Pillai = 0.139, F(3,55) = 2.967, p = 0.0398 *
+  Univariate (+ = higher in males):
+    AUD: beta = 0.07, t = 0.966, p = 0.3381 
+    SM: beta = -0.1254, t = -1.54, p = 0.1291 
+    VV: beta = -0.0745, t = -1.13, p = 0.2634 
+
+--- GLX — UNC ---
+  n = 60 (31M / 29F)
+  MANOVA: Pillai = 0.04, F(3,55) = 0.763, p = 0.5197 
+  Univariate (+ = higher in males):
+    AUD: beta = 0.1351, t = 0.718, p = 0.4758 
+    SM: beta = -0.0927, t = -0.565, p = 0.5741 
+    VV: beta = -0.0888, t = -0.712, p = 0.4791 
+
+--- GLX — ATC ---
+  n = 60 (31M / 29F)
+  MANOVA: Pillai = 0.018, F(3,55) = 0.343, p = 0.7942 
+  Univariate (+ = higher in males):
+    AUD: beta = 0.1577, t = 0.541, p = 0.5903 
+    SM: beta = -0.1249, t = -0.488, p = 0.6274 
+    VV: beta = -0.0465, t = -0.242, p = 0.8094 
+
+--- G — UNC [EXPLORATORY: LPV] ---
+  n = 55 (30M / 25F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.0743, t = -1.471, p = 0.1474 
+
+--- G — ATC [EXPLORATORY: LPV] ---
+  n = 55 (30M / 25F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.0954, t = -1.149, p = 0.2556 
+
+--- GLX — UNC [EXPLORATORY: LPV] ---
+  n = 53 (28M / 25F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.3702, t = -2.239, p = 0.0296 *
+
+--- GLX — ATC [EXPLORATORY: LPV] ---
+  n = 53 (28M / 25F)
+  Univariate (+ = higher in males):
+    LPV: beta = -0.5014, t = -2.001, p = 0.0509 
+
